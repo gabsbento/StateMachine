@@ -5,7 +5,6 @@ public class Main {
         Player player = new Player();
         Scanner scan = new Scanner(System.in);
 
-
         while(true){
             System.out.println("" +
                     "\n1.Play" +
